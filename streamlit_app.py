@@ -19,4 +19,3 @@ for i in range(6000):
         color("red")
     goto (0,0)
 done()
-)
