@@ -2,7 +2,6 @@ import streamlit as st
 
 st.title("🎈 My new app")
 import math
-from turtle import*
 
 def hearta(k):
     return 15*math.sin(k)**3
